@@ -1,4 +1,4 @@
-# My Node.js App
+# Node.js App
 
 This project is a simple Node.js application that demonstrates how to create a RESTful API with Express. It includes endpoints for storing and retrieving data.
 
